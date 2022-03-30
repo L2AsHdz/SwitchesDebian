@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ssid="VSWITCH"
+ssid="APSWITCH"
 pass="12345678"
 
 if [[ -n "$1" ]]; then
